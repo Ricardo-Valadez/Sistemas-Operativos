@@ -1,0 +1,15 @@
+C:\Users\hacker\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\ProyectoSO\ProyectoSO\obj\Debug\RondRobinProyecto.Form1.resources
+C:\Users\hacker\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\hacker\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\hacker\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\bin\Debug\ProyectoSO.exe.config
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\bin\Debug\ProyectoSO.exe
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\bin\Debug\ProyectoSO.pdb
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csprojAssemblyReference.cache
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.Form1.resources
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.Properties.Resources.resources
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.exe
+C:\Users\Richi\Desktop\ProyectoSO\ProyectoSO\obj\Debug\ProyectoSO.pdb
